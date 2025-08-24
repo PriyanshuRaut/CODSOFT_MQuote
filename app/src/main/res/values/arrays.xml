@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>"The best way to get started is to quit talking and begin doing."</item>
+        <item>"Success is not final, failure is not fatal: it is the courage to continue that counts."</item>
+        <item>"Don’t let yesterday take up too much of today."</item>
+        <item>"It’s not whether you get knocked down, it’s whether you get up."</item>
+        <item>"If you can dream it, you can do it."</item>
+        <item>"Great things never come from comfort zones."</item>
+        <item>"Push yourself, because no one else is going to do it for you."</item>
+        <item>"Dream it. Wish it. Do it."</item>
+        <item>"Success doesn’t just find you. You have to go out and get it."</item>
+        <item>"The harder you work for something, the greater you’ll feel when you achieve it."</item>
+        <item>"Dream bigger. Do bigger."</item>
+        <item>"Don’t watch the clock; do what it does. Keep going."</item>
+        <item>"Wake up with determination. Go to bed with satisfaction."</item>
+        <item>"Little things make big days."</item>
+        <item>"It’s going to be hard, but hard does not mean impossible."</item>
+        <item>"Don’t stop when you’re tired. Stop when you’re done."</item>
+        <item>"Believe you can and you’re halfway there."</item>
+        <item>"Doubt kills more dreams than failure ever will."</item>
+        <item>"Discipline is the bridge between goals and accomplishment."</item>
+        <item>"Your limitation—it’s only your imagination."</item>
+    </string-array>
+</resources>
